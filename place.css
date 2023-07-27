@@ -1,0 +1,72 @@
+.body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.title {
+  background-color: cadetblue;
+  margin: 40px 190px;
+  display: flex;
+  justify-content: center;
+}
+.para {
+  background-color: #749bc2;
+  margin: 40px 120px;
+  display: flex;
+  justify-content: center;
+}
+.Header {
+  text-align: center;
+  background-image: url("/Images/rishikesh.jpg");
+  height: 200px;
+  padding: 170px;
+  margin: 0 auto;
+  color: aliceblue;
+  text-shadow: 2px 2px black;
+  background-size: cover;
+  margin-bottom: 0px;
+}
+.img1 {
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+}
+
+.img2 {
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+}
+.img3 {
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+}
+h1 {
+  text-align: center;
+  margin-bottom: 0px;
+}
+.activities {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 20px 40px;
+  font-size: 13px;
+  margin: 10px 0px;
+  background-color: #ffddcc;
+}
+.guide {
+  width: 200px;
+  height: 200px;
+}
+.Guide {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 20px 30px;
+  margin: 20px 500px;
+  text-align: center;
+  background-color: #aed8cc;
+}
+title,
+h1:hover {
+  color: #ffe4a7;
+}
